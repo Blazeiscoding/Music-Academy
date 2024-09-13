@@ -5,8 +5,7 @@ const nextConfig = {
     },
     experimental: {
     appDir: false,
-  }
-
+    },
 }
 
 
